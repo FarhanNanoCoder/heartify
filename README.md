@@ -5,6 +5,7 @@ Heartify is simple android application which basically tracks records about  you
 #Installation : _apk_link
 
 ![intro](https://github.com/FarhanNanoCoder/heartify/blob/main/Splash.png)
+![splash](https://github.com/FarhanNanoCoder)
 
 #Team:
 1. Fabiha Afrose
