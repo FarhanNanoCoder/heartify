@@ -4,6 +4,8 @@ Heartify is simple android application which basically tracks records about  you
 
 #Installation : _apk_link
 
+![alt text]([http://url/to/img.png)](https://drive.google.com/file/d/1Svio9nNJxolR_cRfElgoT_m3m1vmoHH_/view?usp=sharing)
+
 #Team:
 1. Fabiha Afrose
 2. Farhan Shariar
